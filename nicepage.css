@@ -26494,7 +26494,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Roboto,sans-serif;
+  font-family: Montserrat,sans-serif;
 }
 /*end-variables font-family*/
 /*begin-variables color*/
@@ -26518,7 +26518,7 @@ h6 {
   font-family: 'Open Sans',sans-serif !important;
 }
 .u-custom-font.u-heading-font {
-  font-family: Roboto,sans-serif !important;
+  font-family: Montserrat,sans-serif !important;
 }
 /*end-variables font*/
 /*begin-variables colors*/
@@ -44328,11 +44328,11 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 195px;
+  min-height: 185px;
 }
 
 .u-footer .u-text-1 {
-  margin: 40px auto 40px 475px;
+  margin: 30px auto 40px 475px;
 }
 @media (max-width: 1199px) {
   .u-footer .u-text-1 {
