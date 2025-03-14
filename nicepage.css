@@ -44351,7 +44351,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-footer .u-text-1 {
-    margin-left: 141px;
+    margin-left: auto;
   }
 }
 
