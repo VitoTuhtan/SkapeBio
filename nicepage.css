@@ -44332,28 +44332,12 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-text-1 {
-  margin: 30px auto 40px 475px;
+  margin: 36px auto;
 }
-@media (max-width: 1199px) {
-  .u-footer .u-text-1 {
-    margin-left: 391px;
-  }
-}
-@media (max-width: 991px) {
-  .u-footer .u-text-1 {
-    margin-left: 299px;
-  }
-}
-@media (max-width: 767px) {
-  .u-footer .u-text-1 {
-    margin-left: 224px;
-  }
-}
-@media (max-width: 575px) {
-  .u-footer .u-text-1 {
-    margin-left: auto;
-  }
-}
+
+
+
+
 
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
